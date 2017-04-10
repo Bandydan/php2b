@@ -3,7 +3,8 @@
 $greetings = "Hello";
 function sayHello(){
   foreach (range(5) as $i){
-    echo $greetings;
+   $b = 10; 
+   echo $greetings;
   }
 }
 
